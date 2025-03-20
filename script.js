@@ -60,7 +60,3 @@ links.forEach(function (link) {
 
 
 });
-
-
-
-});
