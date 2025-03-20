@@ -1,3 +1,6 @@
+
+
+
 document.addEventListener("DOMContentLoaded", function() {
     let form = document.getElementById("signupForm");
     let message = document.getElementById("message");
@@ -53,6 +56,10 @@ links.forEach(function (link) {
     
         
     });
+
+
+
+});
 
 
 
